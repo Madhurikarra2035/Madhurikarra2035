@@ -3,15 +3,12 @@
 <!-- Visitor Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Madhurikarra2035&color=blueviolet&style=flat-square)
 
-<!-- Wave Header -->
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="0" height="0" alt="" />
-<h1>Hi there 👋, I'm Madhuri Karra</h1>
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
+<!-- Colored Capsule Header (Background Color) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:6A5ACD&height=200&section=header&text=Hi%20There%2C%20I'm%20Madhuri%20Karra&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20CS%20Graduate&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;JavaScript+%7C+Node.js+%7C+SQL;Turning+Ideas+Into+Code;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Java+%7C+Python+%7C+JavaScript+%7C+React;Building+Real+Projects+from+Real+Internships;Growing+Into+AI%2FML" alt="Typing SVG" />
 </a>
 
 </div>
@@ -20,13 +17,13 @@
 
 ## 🚀 About Me
 
-I'm **Madhuri Karra**, a passionate **Full-Stack Developer** starting my journey in software development — driven by curiosity, clean code, and a love for solving real problems.
+I'm **Madhuri Karra**, a Computer Science graduate and Full-Stack Developer with hands-on internship experience across **Full-Stack, Web, AI/ML, Java, Python, and Android development**. I build with **Java, Python, JavaScript, React.js, Node.js, and SQL**, backed by a solid grip on **OOP, Data Structures, and REST APIs**. From an AI-powered job portal to a full e-commerce application, I enjoy building things that actually work — and debugging them until they work *well*.
 
-- 🔭 Currently building projects around **Full-Stack Development** and **Web Development**
-- 🌱 Exploring **Machine Learning** and **AI/ML**
-- 💡 Strong foundation in **Data Structures**, **OOP**, and **Debugging**
-- ⚡ Fun fact: I enjoy untangling bugs almost as much as writing new features
-- 🤝 Open to **collaborations** and **entry-level opportunities** in software development
+- 🎓 B.Tech in Computer Science and Engineering
+- 💼 6+ internships across Full-Stack, Web, Software, AI/ML, Java, Python & Android development
+- 🛠️ Built projects: AI-Powered Job Portal, E-Commerce Website, Resume Site
+- 🌱 Currently deepening my skills in **Machine Learning & AI**
+- 🤝 Open to entry-level Full-Stack / Software Developer roles
 
 ---
 
@@ -36,12 +33,16 @@ I'm **Madhuri Karra**, a passionate **Full-Stack Developer** starting my journey
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-00758F?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Tools & Concepts
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -50,6 +51,7 @@ I'm **Madhuri Karra**, a passionate **Full-Stack Developer** starting my journey
 ![OOP](https://img.shields.io/badge/OOP-5C2D91?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Software Testing](https://img.shields.io/badge/Software%20Testing-25D366?style=for-the-badge&logo=testinglibrary&logoColor=white)
 ![Debugging](https://img.shields.io/badge/Debugging-FF4136?style=for-the-badge&logo=bugatti&logoColor=white)
+![Application Development](https://img.shields.io/badge/App%20Development-4B0082?style=for-the-badge&logo=android&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-412991?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -104,5 +106,7 @@ I'm always excited to connect with fellow developers, collaborate on projects, o
 <div align="center">
 
 ### 💬 *"Code is the closest thing we have to magic — let's build something great."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:8A2BE2&height=100&section=footer" width="100%"/>
 
 </div>
