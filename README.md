@@ -57,6 +57,16 @@ I'm **Madhuri Karra**, a Computer Science graduate and Full-Stack Developer with
 
 ---
 
+## 🏅 Certifications
+
+**Oracle AI Database Foundations Associate (2026)**
+
+<p align="left">
+  <img src="assets/OCI26DCFA.jpg" alt="Oracle Certified Foundations Associate — Oracle AI Database 2026" width="300" />
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
